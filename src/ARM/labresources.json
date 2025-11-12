@@ -290,7 +290,7 @@
     {
       "type": "Microsoft.Sql/servers/databases",
       "apiVersion": "2024-05-01-preview",
-      "name": "[concat(parameters('servers_l501asmisqlserver_name'), '/l501devshopdb')]",
+      "name": "[concat(parameters('servers_l501asmisqlserver_name'), '/lab501devshopdb')]",
       "location": "[resourceGroup().location]",
       "dependsOn": [
         "[resourceId('Microsoft.Sql/servers', parameters('servers_l501asmisqlserver_name'))]"
@@ -507,7 +507,7 @@
         "[resourceId('Microsoft.Sql/servers', parameters('servers_l501asmisqlserver_name'))]"
       ],
       "properties": {
-        "value": "[concat('Server=tcp:', reference(resourceId('Microsoft.Sql/servers', parameters('servers_l501asmisqlserver_name'))).fullyQualifiedDomainName, ',1433;Initial Catalog=l501devshopdb;User ID=', parameters('sqladminUsername'), ';Password=', parameters('sqlAdministratorLoginPassword'), ';Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;')]"
+        "value": "[concat('Server=tcp:', reference(resourceId('Microsoft.Sql/servers', parameters('servers_l501asmisqlserver_name'))).fullyQualifiedDomainName, ',1433;Initial Catalog=lab501devshopdb;User ID=', parameters('sqladminUsername'), ';Password=', parameters('sqlAdministratorLoginPassword'), ';Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;')]"
       }
     },
     {
@@ -525,4 +525,5 @@
     }
 
   ]
+
 }
