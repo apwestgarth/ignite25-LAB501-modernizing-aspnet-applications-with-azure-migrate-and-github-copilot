@@ -451,7 +451,7 @@ steps mentioned below.
 2.  Click Connect. Azure Bastion will initiate remote login into the
     instance in a separate edge browser tab.
 
-**\#### Allow pop‑ups for portal.azure.com before connecting.**
+# **\ Allow pop‑ups for portal.azure.com before connecting.**
 
 ![A computer screen shot of a computer screen AI-generated content may
 be incorrect.](mediafolder/media/image54.png)
@@ -520,3 +520,4 @@ incorrect.](mediafolder/media/image61.png)
 
 ![A screenshot of a computer AI-generated content may be
 incorrect.](mediafolder/media/image62.png)
+
