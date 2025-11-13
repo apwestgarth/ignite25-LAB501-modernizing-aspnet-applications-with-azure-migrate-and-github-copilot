@@ -22,10 +22,11 @@ By the end of this Lab, learners will be able to:
 
 ### Lab Instructions
 
+[https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot/blob/main/docs/lab501instruction.md](https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot/blob/main/docs/lab501instruction.md)
 
 ### Lab Source Code
 
-
+[https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot/tree/main/src](https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot/tree/main/src )
 
 ### 💻 Technologies Used
 
