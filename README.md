@@ -5,46 +5,42 @@
 
 # [Microsoft Ignite 2025](https://ignite.microsoft.com)
 
-## 🔥BRKXXX: Modernizing ASP.NET Applications with Azure Migrate and GitHub Copilot
+## 🔥LAB501: Migrate ASP.NET Apps using Managed Instance on Azure App Service
 
-[![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)
-[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/AIFoundryForum-Ignite25)
 
-### Session Description
+### Lab Description
 
-*Add Session Description*
+*Migrate ASP.NET Web App to Azure using Managed Instance on App Service and unblock modernization challenges*
 
 ### 🧠 Learning Outcomes
 
-By the end of this session, learners will be able to:
+By the end of this Lab, learners will be able to:
 
--  
--
--
+-  Execute GitHub Copilot App Mod Tool for .NET
+-  Migrate ASP.NET web app to Managed Instance on App Service
+-  Configure Installation Script , Storage and Registry Adapters. Learn how RDP into Underlying App Service Plan Instance
+
+### Lab Instructions
+
+
+### Lab Source Code
+
+
 
 ### 💻 Technologies Used
 
-1.
-1.
-1.
-
-### 🌟 Microsoft Learn MCP Server
-
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
-
-The Microsoft Learn MCP Server is a remote MCP Server that enables clients like GitHub Copilot and other AI agents to bring trusted and up-to-date information directly from Microsoft's official documentation. Get started by using the one-click button above for VSCode or access the [mcp.json](.vscode/mcp.json) file included in this repo.
-
-For more information, setup instructions for other dev clients, and to post comments and questions, visit our Learn MCP Server GitHub repo at [https://github.com/MicrosoftDocs/MCP](https://github.com/MicrosoftDocs/MCP). Find other MCP Servers to connect your agent to at [https://mcp.azure.com](https://mcp.azure.com).
-
-*Note: When you use the Learn MCP Server, you agree with [Microsoft Learn](https://learn.microsoft.com/en-us/legal/termsofuse) and [Microsoft API Terms](https://learn.microsoft.com/en-us/legal/microsoft-apis/terms-of-use) of Use.*
+1. Visual Studio 2026 Community edition <br/>
+2. GitHub Copilot App Mod Tool for .NET <br/>
+3. Managed Instance on App Service
 
 ### 📚 Resources and Next Steps
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
-| Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)| Connect with the Azure AI Foundry Community! |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
+| Learn about Managed Instance on App service | [https://Aka.ms/managedinstanceonappservicedocs ](https://Aka.ms/managedinstanceonappservicedocs)| Continue Learning on Managed Instance on App service
+| Tech Community Blog about Managed Instance on App service | [https://Aka.ms/managedinstanceonappservicedocs](https://Aka.ms/managedinstanceonappservicedocs)| Tech Community Blog
 
 ## Content Owners
 
@@ -55,19 +51,19 @@ For more information, setup instructions for other dev clients, and to post comm
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE"
+    <td align="center"><a href="http://github.com/apwestgarth">
+        <img src="https://github.com/apwestgarth.png" width="100px;" alt="Andrew Westgarth"
 "/><br />
-        <sub><b> INSERT NAME HERE
+        <sub><b> Andrew Westgarth
 </b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
+            <a href="https://github.com/apwestgarth" title="talk">📢</a> 
     </td>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE
+    <td align="center"><a href="http://github.com/gsethdev">
+        <img src="https://github.com/gsethdev.png" width="100px;" alt="Gaurav Seth
 "/><br />
-        <sub><b>INSERT NAME HERE
+        <sub><b>Gaurav Seth
 </b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
+            <a href="https://github.com/gsethdev" title="talk">📢</a> 
     </td>
 </tr></table>
 
