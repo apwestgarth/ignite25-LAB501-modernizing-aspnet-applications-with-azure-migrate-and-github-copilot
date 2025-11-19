@@ -1,0 +1,1 @@
+[<img width="1280" height="720" alt="MigrateAppWorkloadsDatatoAzure" src="https://github.com/user-attachments/assets/da63f099-2fde-4cbc-960f-25948868c927" />](https://aka.ms/migrateappworkloadsdatatoazure)
